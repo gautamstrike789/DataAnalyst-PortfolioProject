@@ -1,1 +1,1 @@
-Expolatory Data analysis using SQL
+Expolatory Data analysis using SQL (Covid19 Data Exploration)
